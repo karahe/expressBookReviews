@@ -1,1 +1,2 @@
-# coding-project-template
+# Read It Rate It
+# Book Review Site
